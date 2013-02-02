@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<sync>
+		<name>MakeJiban</name>
+		<port>13412</port>
+		<host>numerical072</host>
+		<max_file_size>100000000</max_file_size>
+		<sync_file_ext>cpp$</sync_file_ext>
+		<sync_file_ext>h$</sync_file_ext>
+		<sync_file_ext>cs$</sync_file_ext>
+		<sync_file_ext>exe$</sync_file_ext>
+		<sync_file_ext>ocx$</sync_file_ext>
+		<sync_file_ext>rc$</sync_file_ext>
+		<sync_file_ext>txt$</sync_file_ext>
+		<sync_file_ext>manifest$</sync_file_ext>
+		<sync_folder>e:\myhome</sync_folder>
+	</sync>
+</configuration>
